@@ -75,7 +75,7 @@ Pastikan Anda telah menginstal software berikut:
 
 ### 📸 Screenshot Aplikasi Dan Cara Menjalakan
 
-[Halaman Utama]([link-gambar-halaman-utama])
+![Halaman Utama](https://github.com/NurAlfanNova22/LSP-NurAlfanNovaPerdana/blob/main/screenshot/Screenshot%20(66).png?raw=true)
 [Halaman Tambah Surat]([link-gambar-halaman-tambah])
 [Halaman About](https://github.com/NurAlfanNova22/LSP-NurAlfanNovaPerdana/blob/main/screenshot/Screenshot%20(66).png?raw=true)
 
