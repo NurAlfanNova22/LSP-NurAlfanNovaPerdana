@@ -1,32 +1,44 @@
-# Aplikasi Arsip Surat Desa Karangduren
+# 📁 Aplikasi Arsip Surat Digital
+### Kelurahan Karangduren, Kecamatan Pakisaji
 
-Aplikasi ini dibuat untuk membantu **Kelurahan Karangduren** di Kecamatan Pakisaji dalam mengelola dan mengarsipkan surat-surat resmi dalam format digital (PDF). Dengan adanya sistem ini, petugas kelurahan dapat dengan mudah mengunggah, mencari, dan mengunduh kembali surat yang dibutuhkan.
-
----
-
-## Fitur Utama
-
-- **Arsip Surat:** Mengunggah file surat dalam format PDF ke dalam sistem.
-- **Pencarian Surat:** Mencari surat berdasarkan judul dengan mudah.
-- **Manajemen Surat:** Fitur untuk mengunduh, melihat, dan menghapus arsip surat yang sudah tersimpan.
-- **Manajemen Kategori:** Mengelola kategori surat (tambah, edit, hapus) sesuai kebutuhan.
-- **Halaman About:** Menampilkan informasi pembuat aplikasi.
+Aplikasi ini adalah sistem arsip digital yang dirancang untuk membantu petugas **Kelurahan Karangduren** dalam mengelola surat-surat resmi. 📝 Sistem ini memungkinkan pengarsipan surat dalam format PDF, pencarian, dan pengunduhan kembali dengan mudah, sehingga proses administrasi menjadi lebih efisien dan terorganisir. ✨
 
 ---
 
-## Tumpukan Teknologi (Tech Stack)
+### 🚀 Fitur Utama
+
+- **Arsip Surat:** Mengunggah file surat (PDF) beserta detail seperti nomor surat, judul, dan kategori.
+- **Pencarian:** Mencari surat berdasarkan judul secara real-time dari halaman utama. 🔎
+- **Pengelolaan Data:** Melihat detail, mengunduh, dan menghapus arsip surat yang sudah tersimpan.
+- **Manajemen Kategori:** Mengelola kategori surat (tambah, edit, hapus) untuk mempermudah klasifikasi. 🗂️
+- **Halaman About:** Menampilkan informasi pembuat aplikasi dan tanggal pembuatannya.
+
+---
+
+### 🛠️ Tumpukan Teknologi (Tech Stack)
 
 Aplikasi ini dibangun menggunakan teknologi berikut:
 
 - **Bahasa Pemrograman:** [Contoh: PHP, JavaScript, Python]
-- **Framework:** [Contoh: Laravel, CodeIgniter, Express.js, React.js]
+- **Framework:** [Contoh: Laravel, CodeIgniter, Express.js]
+- **Frontend:** [Contoh: HTML, CSS, JavaScript]
 - **Database:** [Contoh: MySQL, PostgreSQL, MongoDB]
 
 ---
 
-## Cara Menjalankan Aplikasi
+### ⚙️ Cara Menjalankan Aplikasi
 
-Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi secara lokal:
+Berikut adalah panduan langkah demi langkah untuk menjalankan aplikasi secara lokal di komputer Anda:
+
+#### 1. Prasyarat
+
+Pastikan Anda telah menginstal software berikut:
+- Web server (seperti XAMPP, Laragon, atau WAMP)
+- [Contoh: PHP, versi 7.4 atau lebih baru]
+- [Contoh: Composer untuk mengelola dependensi PHP]
+- [Contoh: Node.js dan npm/yarn untuk frontend]
+
+#### 2. Instalasi dan Konfigurasi
 
 1.  **Clone Repository:**
     ```bash
@@ -39,39 +51,39 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi secara lokal:
     ```
 
 3.  **Instal Dependensi:**
-    [Contoh: Untuk Laravel gunakan `composer install`, untuk Node.js gunakan `npm install`]
+    [Contoh: `composer install` jika menggunakan Laravel atau CI]
+    [Contoh: `npm install` jika ada dependensi frontend]
     ```bash
-    [tulis perintah instalasi di sini]
+    # Perintah instalasi dependensi di sini
     ```
 
 4.  **Konfigurasi Database:**
-    - Buat database baru bernama `[nama_database_Anda]`.
-    - Konfigurasi file `.env` atau koneksi database dengan kredensial yang sesuai.
-    - Jalankan migrasi atau seeding database.
-    [Contoh: `php artisan migrate --seed` atau `npx sequelize-cli db:migrate`]
+    - Buat database baru di MySQL atau database pilihan Anda.
+    - [Contoh: Salin file `.env.example` menjadi `.env` dan sesuaikan kredensial database.]
+    ```bash
+    # Contoh perintah migrasi database
+    # php artisan migrate
+    ```
 
 5.  **Jalankan Aplikasi:**
-    [Contoh: Untuk Laravel gunakan `php artisan serve`]
+    [Contoh: `php artisan serve` untuk menjalankan server di Laravel]
     ```bash
-    [tulis perintah untuk menjalankan aplikasi di sini]
+    # Perintah untuk menjalankan aplikasi
     ```
 
 ---
 
-## Tampilan Aplikasi
+### 📸 Screenshot Aplikasi
 
-Berikut adalah beberapa tampilan (screenshot) dari aplikasi:
-
-![Tampilan Halaman Utama]([link-gambar-halaman-utama.png])
-![Tampilan Halaman Arsip Surat]([link-gambar-halaman-arsip.png])
-![Tampilan Halaman About]([link-gambar-halaman-about.png])
+| Halaman Utama | Halaman Tambah Surat | Halaman About |
+| :---: | :---: | :---: |
+| ![Halaman Utama]([link-gambar-halaman-utama]) | ![Halaman Tambah Surat]([link-gambar-halaman-tambah]) | ![Halaman About]([link-gambar-halaman-about]) |
 
 ---
 
-## Identitas Pengembang
+### 👨‍💻 Identitas Pengembang
 
-Aplikasi ini dibuat sebagai syarat Uji Kompetensi Keahlian (UKK) oleh:
+Proyek ini dikembangkan oleh:
 
-- **Nama:** Nur Alfan Nova Perdana
-- **NIM:** 2331730083
-- **Tanggal Pembuatan:** 18 Spetember 2025
+- **Nama:** [Nama Lengkap Anda]
+- **NIM:** [NIM Anda]
