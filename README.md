@@ -77,7 +77,7 @@ Pastikan Anda telah menginstal software berikut:
 
 | Halaman Utama | Halaman Tambah Surat | Halaman About |
 | :---: | :---: | :---: |
-| ![Halaman Utama]([link-gambar-halaman-utama]) | ![Halaman Tambah Surat]([link-gambar-halaman-tambah]) | ![Halaman About]([link-gambar-halaman-about]) |
+| ![Halaman Utama]([link-gambar-halaman-utama]) | ![Halaman Tambah Surat]([link-gambar-halaman-tambah]) | ![Halaman About]([[link-gambar-halaman-about]](https://github.com/NurAlfanNova22/LSP-NurAlfanNovaPerdana/blob/main/screenshot/Screenshot%20(66).png?raw=true)) |
 
 ---
 
