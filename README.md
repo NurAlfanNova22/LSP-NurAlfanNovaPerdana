@@ -73,7 +73,7 @@ Pastikan Anda telah menginstal software berikut:
 
 ---
 
-### 📸 Screenshot Aplikasi
+### 📸 Screenshot Aplikasi Dan Cara Menjalakan
 
 | Halaman Utama | Halaman Tambah Surat | Halaman About |
 | :---: | :---: | :---: |
@@ -85,5 +85,6 @@ Pastikan Anda telah menginstal software berikut:
 
 Proyek ini dikembangkan oleh:
 
-- **Nama:** [Nama Lengkap Anda]
-- **NIM:** [NIM Anda]
+- **Nama:** Nur Alfan Nova Perdana
+- **NIM:** 2331730083
+- **Tanggal Pembuatan:** 18 September 2025
