@@ -75,10 +75,16 @@ Pastikan Anda telah menginstal software berikut:
 
 ### 📸 Screenshot Aplikasi Dan Cara Menjalakan
 
-![Halaman Utama](https://github.com/NurAlfanNova22/LSP-NurAlfanNovaPerdana/blob/main/screenshot/Screenshot%20(66).png?raw=true)
-[Halaman Tambah Surat]([link-gambar-halaman-tambah])
-[Halaman About](https://github.com/NurAlfanNova22/LSP-NurAlfanNovaPerdana/blob/main/screenshot/Screenshot%20(66).png?raw=true)
+#### Halaman Utama
+![Halaman Utama](https://github.com/NurAlfanNova22/LSP-NurAlfanNovaPerdana/blob/main/screenshot/Halaman%20Pertama.png?raw=true)
 
+#### Manajemen Surat & Kategori
+| CRUD Surat | CRUD Kategori Surat |
+| :---: | :---: |
+| ![CRUD Surat](https://github.com/NurAlfanNova22/LSP-NurAlfanNovaPerdana/blob/main/screenshot/Crud%20surat.png?raw=true) | ![CRUD Kategori Surat](https://github.com/NurAlfanNova22/LSP-NurAlfanNovaPerdana/blob/main/screenshot/Crud%20Kategori%20Surat.png?raw=true) |
+
+#### Halaman About
+![Halaman About](https://github.com/NurAlfanNova22/LSP-NurAlfanNovaPerdana/blob/main/screenshot/Screenshot%20(66).png?raw=true)
 ---
 
 ### 👨‍💻 Identitas Pengembang
