@@ -72,6 +72,6 @@ Berikut adalah beberapa tampilan (screenshot) dari aplikasi:
 
 Aplikasi ini dibuat sebagai syarat Uji Kompetensi Keahlian (UKK) oleh:
 
-- **Nama:** [Nama Anda]
-- **NIM:** [NIM Anda]
-- **Tanggal Pembuatan:** [Tanggal Pembuatan Aplikasi]
+- **Nama:** Nur Alfan Nova Perdana
+- **NIM:** 2331730083
+- **Tanggal Pembuatan:** 18 Spetember 2025
