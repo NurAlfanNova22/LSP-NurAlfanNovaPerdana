@@ -81,7 +81,7 @@ Pastikan Anda telah menginstal software berikut:
 #### Manajemen Surat & Kategori
 | CRUD Surat | CRUD Kategori Surat |
 | :---: | :---: |
-| ![CRUD Surat](https://github.com/NurAlfanNova22/LSP-NurAlfanNovaPerdana/blob/main/screenshot/Crud%20surat.png?raw=true) | ![CRUD Kategori Surat](https://github.com/NurAlfanNova22/LSP-NurAlfanNovaPerdana/blob/main/screenshot/Crud%20Kategori%20Surat.png?raw=true) |
+| ![Halaman Tambah Surat](https://github.com/NurAlfanNova22/LSP-NurAlfanNovaPerdana/blob/main/screenshot/Crud%20surat.png?raw=true) | ![Halmaan CRUD Kategori Surat](https://github.com/NurAlfanNova22/LSP-NurAlfanNovaPerdana/blob/main/screenshot/Crud%20Kategori%20Surat.png?raw=true) |
 
 #### Halaman About
 ![Halaman About](https://github.com/NurAlfanNova22/LSP-NurAlfanNovaPerdana/blob/main/screenshot/Screenshot%20(66).png?raw=true)
